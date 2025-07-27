@@ -17,3 +17,8 @@
     ![Kicad PCB](./images/kicad-pcb-1.png)
     - Things to do next - Put some Neopixels, Stabilizers, Plate, Silkscreen
     - Time Spent today till now - 3 hours
+
+- Date 27/07/25 (Update 2)
+    - Done with the Neopixels, I did not add per key LED but a bar on top and on WASD keys (not for gaming obviously :O)
+    ![alt text](./images/kicad-pcb-2.png)
+    - Time Spent - 1.5 hours
