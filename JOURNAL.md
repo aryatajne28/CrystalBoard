@@ -8,3 +8,5 @@
     - Setup Kicad with all the libraries and footprints.
     - Time Spent - 30 mins
     
+- Date 27/07/25
+    - I made the complete schematic made the PCB layout but then I noticed that there is no space for Pi Pico. So I deleted the top right 3 keys, thus I had to do changes in the Kicad Schematic and PCB. Thus took some time but I am done with PCB routing. Now I am thinking to add some neopixels and some silkscreen to the PCB.  
