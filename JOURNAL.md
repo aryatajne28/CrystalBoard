@@ -22,3 +22,10 @@
     - Done with the Neopixels, I did not add per key LED but a bar on top and on WASD keys (not for gaming obviously :O)
     ![alt text](./images/kicad-pcb-2.png)
     - Time Spent - 1.5 hours
+
+- Date 28/07/25 
+    - Done with Silkscreen and Stablizers.
+    - It was pain to convert the images into B&W vectors.
+    - PCB Looks like this now:
+    ![alt text](./images/silkscreen.png)
+    - Time spent - 1.5 hours
