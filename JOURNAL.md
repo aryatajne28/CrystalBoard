@@ -29,3 +29,9 @@
     - PCB Looks like this now:
     ![alt text](./images/silkscreen.png)
     - Time spent - 1.5 hours
+
+- Date 31/07/25
+    - Speedrunning the Case and Code File!
+    - Case I have designed as layers since I will be laser cutting the acrylic sheets.
+    - For illustration purposes I have just reduced the opacity of the components in Autocad to make it look like Acrylic, but in real life it will look really good!
+    ![alt text](<./images/Full-Keyboard v1.png>)
