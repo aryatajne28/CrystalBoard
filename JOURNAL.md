@@ -36,3 +36,6 @@
     - For illustration purposes I have just reduced the opacity of the components in Autocad to make it look like Acrylic, but in real life it will look really good!
     ![alt text](<./images/Full-Keyboard v1.png>)
     - Time spent - 3 hours
+
+    - Finalized the repo and collected resources for all the BOM.
+    - Time Spent - 2 hours!
