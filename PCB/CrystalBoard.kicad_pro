@@ -60,7 +60,7 @@
         "annular_width": "error",
         "clearance": "error",
         "connection_width": "error",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "error",
         "courtyards_overlap": "error",
         "creepage": "error",
@@ -133,7 +133,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -226,7 +226,24 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_not_connected|2463800|2159000|1d35883c-07b6-486f-9d6b-8c56be5c6754|00000000-0000-0000-0000-000000000000|/35a0d123-a11d-4925-99f0-29fa0f31fb7b|/35a0d123-a11d-4925-99f0-29fa0f31fb7b|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|3454400|787400|a77cfa29-e894-44a7-9936-9edd5e2fb7d3|00000000-0000-0000-0000-000000000000|/35a0d123-a11d-4925-99f0-29fa0f31fb7b|/35a0d123-a11d-4925-99f0-29fa0f31fb7b|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|3810000|838200|85527bd7-b02b-44d6-a79b-9a550a713002|00000000-0000-0000-0000-000000000000|/35a0d123-a11d-4925-99f0-29fa0f31fb7b|/35a0d123-a11d-4925-99f0-29fa0f31fb7b|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|3848100|749300|661f5ee8-7a5a-48b5-8d46-3b1f568a6f46|00000000-0000-0000-0000-000000000000|/35a0d123-a11d-4925-99f0-29fa0f31fb7b|/35a0d123-a11d-4925-99f0-29fa0f31fb7b|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },

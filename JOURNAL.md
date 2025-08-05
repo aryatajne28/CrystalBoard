@@ -53,4 +53,5 @@
 - Date 06/08/25 - Total Time Spent: 0.5 hours
     - I have added the updated items in my BOM and updated the code a bit.
     - Refinded the README.md file.
+    - Another Update, I uploaded the new Kicad Project files and the production .zip folder for the same.
     - Time Spent - 0.5 hours
