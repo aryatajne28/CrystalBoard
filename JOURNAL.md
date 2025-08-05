@@ -8,7 +8,7 @@
     - Setup Kicad with all the libraries and footprints.
     - Time Spent - 30 mins
     
-- Date 27/07/25 - Total Time Spent: 3.5 hours
+- Date 27/07/25 - Total Time Spent: 4.5 hours
     - I made the complete schematic made the PCB layout but then I noticed that there is no space for Pi Pico. So I deleted the top right 3 keys, thus I had to do changes in the Kicad Schematic and PCB. Thus took some time but I am done with PCB routing. Now I am thinking to add some neopixels and some silkscreen to the PCB.
     - The updated keyboard layout looks like this now:
     ![Keyboard Layout Updated](<./images/Keyboard Layout Updated.png>)
@@ -40,7 +40,7 @@
     - Finalized the repo and collected resources for all the BOM.
     - Time Spent - 2 hours
 
-- Date 03/08/25
+- Date 03/08/25 - Total Time Spent: 2 hours
     - According to the changes suggested by @Kai Pereira(Slack) I have now added per key RGB Neopixel!
     - So I deleted all the tracks because it was a lot of hassle to shift everything and again route.
     - Added 83x Neopixels and 83x 0805 Capacitors in the schematic and now searching for good site to order from, because ordering to India is a hassle
@@ -49,3 +49,8 @@
     ![alt text](./images/kicad-pcb-neopixel.png)
     - Todo: Code change and Update BOM
     - Time Spent - 2 hours
+
+- Date 06/08/25 - Total Time Spent: 0.5 hours
+    - I have added the updated items in my BOM and updated the code a bit.
+    - Refinded the README.md file.
+    - Time Spent - 0.5 hours

@@ -18,15 +18,7 @@ keyboard.modules.append(MouseKeys())
 keyboard.modules.append(Layers())
 keyboard.extensions.append(MediaKeys())
 
-# RGB: adjust pixel_pin & num_pixels if yours differ
-rgb = RGB(
-    pixel_pin=board.D22,
-    num_pixels=87,
-    animation_speed=1,
-    animation_mode=AnimationModes.STATIC,
-    val_default=30,
-    val_limit=40
-)
+rgb = RGB(pixel_pin=board.D22, num_pixels=83, animation_speed=1, animation_mode=AnimationModes.STATIC, val_default=30, val_limit=40)
 keyboard.extensions.append(rgb)
 
 # — Matrix pinout (15 cols × 6 rows) —
