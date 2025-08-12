@@ -55,3 +55,16 @@
     - Refinded the README.md file.
     - Another Update, I uploaded the new Kicad Project files and the production .zip folder for the same.
     - Time Spent - 0.5 hours
+
+- Date 12/08/25 - Total Time Spent: 2 hours
+    - According to the changes suggested by Kai, I have made the case a bit more complex.
+    - I took referrence from this design I found online: https://www.ponoko.com/blog/maker-success-stories/limbo-keys-custom-mechanical-keyboards/
+    - Reference images: ![alt text](./images/referenceKB.png)
+    - What I did in Fusion:
+    ![alt text](./images/UpdatedCaseBack.png)
+    ![alt text](./images/UpdatedCaseView.png)
+    ![alt text](./images/UpdatedCaseBottom.png)
+
+    - Now it has a stand below for a tilted design, which is just two cutouts of leftover acrylic and I will stick them using clear glue.
+    - BOM remains the same.
+    - Time Spent - 2 hours
